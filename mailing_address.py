@@ -5,5 +5,5 @@ Created on Wed Apr 29 19:52:34 2020
 
 @author: geethikalakshmi
 """
-#printing name and address using new line character
+#printing name and address using new line character.
 print('Geethika\nLB Nagar\nChitra Layout\nHyderabad')
