@@ -9,7 +9,7 @@ Created on Mon May  4 20:15:56 2020
 from math import log10
 a=float(input('enter the a value..:'))
 b=float(input('enter the b valuze..:'))
-
+#to calculate the arithmetic operations
 print('sum is.:',a+b)
 print('difference is..:',a-b)
 print('product is..:',a*b)
