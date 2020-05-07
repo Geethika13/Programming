@@ -5,7 +5,7 @@ Created on Mon May  4 20:09:00 2020
 
 @author: geethikalakshmi
 """
-#define the given conditions
+#define the given conditions.
 widgets= 75
 gizmos=112
 #input the values 
